@@ -4,22 +4,22 @@
 
 #### Data Structures & Algorithms
 
-- [ ] The Algorithm Design Manual - Steven Skiena -  [[Book](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena-dp-1848000693/dp/1848000693/ref=mt_hardcover?_encoding=UTF8&me=&qid=)] [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf)]
+- [ ] [The Algorithm Design Manual](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf) - Steven Skiena -  [Textbook]
 
 #### Programming
-- [ ] Structure and Interpretation of Computer Programs - Harold Abelson, Gerald Jay Sussman, Julie Sussman -  [[Book](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering-dp-0262011530/dp/0262011530/ref=mt_hardcover?_encoding=UTF8&me=&qid=1561357023)] [[PDF](https://web.mit.edu/alexmv/6.037/sicp.pdf)]
+- [ ] [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman - [Textbook]
 
 #### Math for CS
-- [ ] Mathematics for Computer Science - Eric Lehman, F Thomson Leighton, Albert R Meyer - [[PDF](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)]
+- [ ] [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf) - Eric Lehman, F Thomson Leighton, Albert R Meyer - [Textbook]
 
 #### Computer Architecture
-- [ ] Build a Modern Computer from First Principles: From Nand to Tetris - Shimon Schocken, Noam Nisan - [[Coursera](https://www.coursera.org/learn/build-a-computer)]
+- [ ] [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) - Shimon Schocken, Noam Nisan - [Coursera]
 
 
 ## Web Development
 
 ### React
-- [ ] Gatsby - [[Tutorial](https://www.gatsbyjs.org/tutorial/)]
+- [ ] [Gatsby](https://www.gatsbyjs.org/tutorial/) - [Tutorial]
 - [ ] Advanced React
 
 ### Redux
