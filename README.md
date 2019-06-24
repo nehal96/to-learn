@@ -1,5 +1,12 @@
 # Things to Learn
 
+### The Things
+1. [Computer Science](https://github.com/nehal96/to-learn#computer-science)
+2. [Web Development](https://github.com/nehal96/to-learn#web-development)
+3. [Education](https://github.com/nehal96/to-learn#education)
+4. [Design](https://github.com/nehal96/to-learn#design)
+5. [Machine Learning + AI](https://github.com/nehal96/to-learn#machine-learning--ai)
+
 ## Computer Science
 
 #### Data Structures & Algorithms
